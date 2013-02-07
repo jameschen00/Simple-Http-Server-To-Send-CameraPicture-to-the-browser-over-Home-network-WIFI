@@ -14,7 +14,7 @@ public class ContentType {
 	    		return "image/gif";
 	    } else if (fileName.endsWith(".png")) {
 		      	return "image/png";
-	    } else if (fileName.endsWith(".css")) {
+	    } else if (fileName.endsWith(".css")) {  
 		      	return "text/css";
 	    } else {
 	    		return "application/octet-stream";  

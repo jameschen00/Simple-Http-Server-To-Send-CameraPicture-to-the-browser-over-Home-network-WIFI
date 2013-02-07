@@ -1,1 +1,3 @@
-/TestSocket
+bin
+.gitignore
+.metadata
